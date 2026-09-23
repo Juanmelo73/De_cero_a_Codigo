@@ -13,7 +13,7 @@ Repositorio con los ejercicios y practicas trabajados en el Club de Programacion
 
 La carpeta `Project_calculator/` contiene un proyecto que cuenta con su propio repositorio de GitHub y su propio historial de cambios. Se incluye aqui como parte del material trabajado en el club, pero se mantiene como un proyecto independiente.
 
-Puedes consultar su documentacion especifica en [Project_calculator/README.md](Project_calculator/README.md).
+Puedes consultar su documentacion especifica en el [repositorio de Project_calculator](https://github.com/Juanmelo73/Project_calculator).
 
 ## Tecnologias
 

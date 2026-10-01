@@ -20,6 +20,7 @@ Puedes consultar su documentacion especifica en el [repositorio de Project_calcu
 Los ejercicios utilizan principalmente:
 
 - Python
+- Dart
 - JavaScript
 - HTML
 - CSS
